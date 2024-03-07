@@ -10,5 +10,6 @@ https://github.com/anjusreethota/Voice-Controlled-Home-Automation-using-Android-
 
 https://github.com/anjusreethota/Voice-Controlled-Home-Automation-using-Android-Smartphone/assets/103201221/b0076572-fc05-49bd-919c-fa5472a072c9
 
-![iot w5](https://github.com/anjusreethota/Voice-Controlled-Home-Automation-using-Android-Smartphone/assets/103201221/b3011f45-cd5f-41f2-8b67-8d90b9564889)
-![iot w6](https://github.com/anjusreethota/Voice-Controlled-Home-Automation-using-Android-Smartphone/assets/103201221/7e8154b3-68eb-41dd-adb0-67cc0d9298bc)
+
+![iot w5](https://github.com/anjusreethota/Voice-Controlled-Home-Automation-using-Android-Smartphone/assets/103201221/535a542f-1181-4446-a1ce-f28a1a461782)
+![iot w6](https://github.com/anjusreethota/Voice-Controlled-Home-Automation-using-Android-Smartphone/assets/103201221/87b91317-6208-4cbe-a049-9d850e69cbfc)
